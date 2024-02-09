@@ -1,0 +1,13 @@
+accelerate
+deepspeed==0.10.0
+datasets
+fire
+transformers==4.28.0
+sentencepiece
+wandb
+evaluate
+pyext
+langchain
+numexpr
+tqdm==4.64.1
+peft

@@ -1,0 +1,6 @@
+CONTEXT = """Context: {context}"""
+QUESTION = """Question: {question}"""
+ANSWER = """Answer: {answer}"""
+TOOL = """<start_tool> Thought: {thought}\nAction: {action}\nAction Input: {action_input}"""
+OBSERVATION = """<start_observation> Observation: {observation}"""
+WORK = """<start_work> Work: {work}"""
