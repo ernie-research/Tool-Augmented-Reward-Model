@@ -17,8 +17,8 @@ The official repository which contains the code and pre-trained models for our p
 ## 🗂️ Table of Contents
 
 - [Tool-Augmented Reward Modeling](#tool-augmented-reward-modeling)
-  - [🌟 Overview](#🌟-overview)
-  - [📌 Models](#📌-models)
+  - [🌟 Overview](#-overview)
+  - [📌 Models](#-models)
   - [📕 Requirements](#📕-requirements)
   - [📚 Dataset](#📚-dataset)
     - [Data Instances](#data-instances)
