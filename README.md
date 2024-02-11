@@ -1,4 +1,4 @@
-# [Tool-Augmented-Reward-Modeling](https://arxiv.org/abs/2310.01045)
+# [ICLR 2024 Spotlight | Tool-Augmented-Reward-Modeling](https://arxiv.org/abs/2310.01045)
 
    <a href="https://huggingface.co/baidu" target="_blank">
       <img alt="Models" src="https://img.shields.io/badge/🤗-Models-blue" />
@@ -6,13 +6,18 @@
   <a href="https://arxiv.org/abs/2310.01045" target="_blank">
       <img alt="Paper" src="https://img.shields.io/badge/📜-Paper-purple" />
    </a>
+  <a href="https://iclr.cc/Conferences/2024" target="_blank">
+      <img alt="ICLR 2024" src="https://img.shields.io/badge/Proceedings-ICLR2024-red" />
+   </a>
 
-The official repository which contains the code and pre-trained models for our paper [Tool-Augmented Reward Modeling](https://arxiv.org/pdf/2310.01045.pdf).
+
+
+The official repository which contains the code and model checkpoints for our paper [Tool-Augmented Reward Modeling (ICLR 2024)](https://arxiv.org/pdf/2310.01045.pdf).
 
 
 ## 🔥 News
-
-* **9 February, 2024:** 🎉 We released the codebase and the weights of [`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b). We will continue updating this repository.
+* **9 February, 2024:** 🎉 We release the official codebase and model weights of [`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b). Stay tuned! 🤗
+* **16 January, 2024:** 🎉 Our work has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024) **Spotlight**! ✨
 
 ## 🗂️ Table of Contents
 
@@ -132,27 +137,20 @@ bash scripts/generate_rm.sh
 
 ## Citation
 
-If you find our work helpful, please cite us:
+For attribution in academic contexts, please cite this work as:
 
 ```
-@article{DBLP:journals/corr/abs-2310-01045,
-  author       = {Lei Li and
-                  Yekun Chai and
-                  Shuohuan Wang and
-                  Yu Sun and
-                  Hao Tian and
-                  Ningyu Zhang and
-                  Hua Wu},
-  title        = {Tool-Augmented Reward Modeling},
-  journal      = {CoRR},
-  volume       = {abs/2310.01045},
-  year         = {2023},
-  url          = {https://doi.org/10.48550/arXiv.2310.01045},
-  doi          = {10.48550/ARXIV.2310.01045},
-  eprinttype    = {arXiv},
-  eprint       = {2310.01045},
-  timestamp    = {Tue, 12 Dec 2023 10:51:05 +0100},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2310-01045.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{tarm-2024-ernie,
+  author = {Lei Li and
+            Yekun Chai and
+            Shuohuan Wang and
+            Yu Sun and
+            Hao Tian and
+            Ningyu Zhang and
+            Hua Wu},
+  title = {Tool-Augmented Reward Modeling},
+  booktitle = {The Twelfth International Conference on Learning Representations (ICLR)},
+  year = {2024},
+  url = {https://openreview.net/forum?id=d94x0gWTUX},
 }
 ```
