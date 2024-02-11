@@ -19,12 +19,12 @@ The official repository which contains the code and pre-trained models for our p
 - [Tool-Augmented Reward Modeling](#tool-augmented-reward-modeling)
   - [🌟 Overview](#-overview)
   - [📌 Models](#-models)
-  - [📕 Requirements](#📕-requirements)
-  - [📚 Dataset](#📚-dataset)
+  - [📕 Requirements](#-requirements)
+  - [📚 Dataset](#-dataset)
     - [Data Instances](#data-instances)
     - [Data Fields](#data-fields)
-  - [🚀 Training](#🚀-training)
-  - [🚁 Evaluation](#🚁-evaluation)
+  - [🚀 Training](#-training)
+  - [🚁 Evaluation](#-evaluation)
   - [Citation](#citation)
 
 ## 🌟 Overview
