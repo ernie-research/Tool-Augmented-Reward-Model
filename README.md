@@ -1,4 +1,4 @@
-# [Tool-Augmented-Reward-Model](https://arxiv.org/abs/2310.01045)
+# [Tool-Augmented-Reward-Modeling](https://arxiv.org/abs/2310.01045)
 
    <a href="https://huggingface.co/baidu" target="_blank">
       <img alt="Models" src="https://img.shields.io/badge/🤗-Models-blue" />
@@ -12,20 +12,19 @@ The official repository which contains the code and pre-trained models for our p
 
 ## 🔥 News
 
-* **[9 February, 20234:** 🎉 We released the codebase and the weights of [`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b). We will continue updating this repository.
+* **9 February, 2024:** 🎉 We released the codebase and the weights of [`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b). We will continue updating this repository.
 
 ## 🗂️ Table of Contents
 
-- [Tool-Augmented Reward Modeling](#Tool-Augmented-Reward-Modeling)
-  - [Overview](#overview)
-  - [Models](#models)
-  - [Requirements](#requirements)
-  - [Dataset](#dataset)
+- [Tool-Augmented Reward Modeling](#tool-augmented-reward-modeling)
+  - [🌟 Overview](#🌟-overview)
+  - [📌 Models](#📌-models)
+  - [📕 Requirements](#📕-requirements)
+  - [📚 Dataset](#📚-dataset)
     - [Data Instances](#data-instances)
     - [Data Fields](#data-fields)
-    - [Lemur-70B-Chat](#lemur-70b-chat)
-  - [Training](#training)
-  - [Evaluation](#evaluation)
+  - [🚀 Training](#🚀-training)
+  - [🚁 Evaluation](#🚁-evaluation)
   - [Citation](#citation)
 
 ## 🌟 Overview
@@ -118,7 +117,7 @@ bash scripts/train_rm.sh
 bash scripts/train_bert.sh
 ```
 
-## 🚁Evaluation
+## 🚁 Evaluation
 
 ### Evaluate Themis
 ```bash
