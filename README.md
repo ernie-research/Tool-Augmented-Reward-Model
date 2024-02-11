@@ -16,7 +16,7 @@ The official repository which contains the code and model checkpoints for our pa
 
 
 ## 🔥 News
-* **9 February, 2024:** 🎉 We release the official codebase and model weights of [`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b). Stay tuned! 🤗
+* **9 February, 2024:** 🎉 We release the official codebase and model weights of [`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b). Stay tuned!🔥
 * **16 January, 2024:** 🎉 Our work has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024) **Spotlight**! ✨
 
 ## 🗂️ Table of Contents
