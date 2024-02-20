@@ -3,6 +3,9 @@
    <a href="https://huggingface.co/baidu" target="_blank">
       <img alt="Models" src="https://img.shields.io/badge/🤗-Models-blue" />
    </a>
+   <a href="https://huggingface.co/datasets/baidu/TARA" target="_blank">
+      <img alt="Datasets" src="https://img.shields.io/badge/📚-Datasets-green" />
+   </a>
   <a href="https://arxiv.org/abs/2310.01045" target="_blank">
       <img alt="Paper" src="https://img.shields.io/badge/📜-Paper-purple" />
    </a>
