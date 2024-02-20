@@ -26,6 +26,7 @@ The official repository which contains the code and model checkpoints for our pa
   - [📌 Models](#-models)
   - [📕 Requirements](#-requirements)
   - [📚 Dataset](#-dataset)
+    - [Data Structure](#data-structure)
     - [Data Instances](#data-instances)
     - [Data Fields](#data-fields)
   - [🚀 Training](#-training)
