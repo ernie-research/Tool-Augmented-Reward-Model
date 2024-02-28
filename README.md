@@ -1,4 +1,4 @@
-# [ICLR 2024 Spotlight | Tool-Augmented-Reward-Modeling](https://arxiv.org/abs/2310.01045)
+# [ICLR'24 Spotlight | Tool-Augmented-Reward-Modeling](https://arxiv.org/abs/2310.01045)
 
    <a href="https://huggingface.co/baidu" target="_blank">
       <img alt="Models" src="https://img.shields.io/badge/🤗-Models-blue" />
@@ -15,7 +15,7 @@
 
 
 
-The official repository which contains the code and model checkpoints for our paper [Tool-Augmented Reward Modeling (ICLR 2024)](https://arxiv.org/pdf/2310.01045.pdf).
+The official repository which contains the code and model checkpoints for our paper [Tool-Augmented Reward Modeling (ICLR 2024)](https://openreview.net/pdf?id=d94x0gWTUX).
 
 
 ## 🔥 News
