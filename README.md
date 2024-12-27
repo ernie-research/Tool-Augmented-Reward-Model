@@ -19,7 +19,7 @@ The official repository which contains the code and model checkpoints for our pa
 
 
 ## 🔥 News
-* **9 February, 2024:** 🎉 We release the official codebase and model weights of [`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b). Stay tuned!🔥
+* **9 February, 2024:** 🎉 We release the official codebase, data ([`TARA dataset`](https://huggingface.co/datasets/baidu/TARA)), and model weights ([`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b)). Stay tuned!🔥
 * **16 January, 2024:** 🎉 Our work has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024) **Spotlight**! ✨
 
 ## 🗂️ Table of Contents
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 
 ## 📚 Dataset
-TARA is a dataset for tool-augmented reward modeling, which includes comprehensive comparison data of human preferences and detailed tool invocation processes.
+TARA is a dataset for tool-augmented reward modeling, which includes comprehensive comparison data of human preferences and detailed tool invocation processes. [Download](https://huggingface.co/datasets/baidu/TARA)
 
 ### Dataset Structure
 
@@ -72,7 +72,7 @@ TARA is a dataset for tool-augmented reward modeling, which includes comprehensi
 - **calendar**: preference data involving the `Calendar` tool, which serves three primary functions: determining the weekday of a given date, calculating the difference between two dates, and finding the date that follows another date by n days.
 - **weather**: preference data involving the `Weather` tool, which receives a city and a date as inputs and outputs the information about the weather in the specified city on the given date.
 - **translator**: preference data involving the `Translator` tool, encompassing QA instances in 7 different languages.
-- **webgpt**: preference data involving the `Google Search` tool, constructed based on the reward dataset[webgpt_comparisons](https://huggingface.co/datasets/openai/webgpt_comparisons).
+- **webgpt**: preference data involving the `Google Search` tool, constructed based on the reward dataset [webgpt_comparisons](https://huggingface.co/datasets/openai/webgpt_comparisons).
 - **wikisearch**: preference data involving the `WikiSearch` tool, comprising real anonymized, aggregated queries posed to the Google search engine and annotated with Wikipedia pages
 - **multi_tools**: preference data involving `calendar` and `weather` tools.
 - **mix**: aggregation of the above data.
