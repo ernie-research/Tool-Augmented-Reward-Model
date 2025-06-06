@@ -1,9 +1,9 @@
 # [ICLR'24 Spotlight | Tool-Augmented-Reward-Modeling](https://arxiv.org/abs/2310.01045)
 
-   <a href="https://huggingface.co/baidu" target="_blank">
+   <a href="https://huggingface.co/ernie-research" target="_blank">
       <img alt="Models" src="https://img.shields.io/badge/🤗-Models-blue" />
    </a>
-   <a href="https://huggingface.co/datasets/baidu/TARA" target="_blank">
+   <a href="https://huggingface.co/datasets/ernie-research/TARA" target="_blank">
       <img alt="Datasets" src="https://img.shields.io/badge/📚-Datasets-green" />
    </a>
   <a href="https://arxiv.org/abs/2310.01045" target="_blank">
@@ -19,7 +19,7 @@ The official repository which contains the code and model checkpoints for our pa
 
 
 ## 🔥 News
-* **9 February, 2024:** 🎉 We release the official codebase, data ([`TARA dataset`](https://huggingface.co/datasets/baidu/TARA)), and model weights ([`baidu/Themis-7b`](https://huggingface.co/baidu/Themis-7b)). Stay tuned!🔥
+* **9 February, 2024:** 🎉 We release the official codebase, data ([`TARA dataset`](https://huggingface.co/datasets/ernie-research/TARA)), and model weights ([`ernie-research/Themis-7b`](https://huggingface.co/ernie-research/Themis-7b)). Stay tuned!🔥
 * **16 January, 2024:** 🎉 Our work has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024) **Spotlight**! ✨
 
 ## 🗂️ Table of Contents
@@ -51,7 +51,7 @@ Our study delves into the integration of external tools into RMs, enabling them 
 
 We released our models on the HuggingFace Hub:
 
-* [baidu/Themis-7b](https://huggingface.co/baidu/Themis-7b)
+* [ernie-research/Themis-7b](https://huggingface.co/ernie-research/Themis-7b)
 
 
 ## 📕 Requirements
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 
 ## 📚 Dataset
-TARA is a dataset for tool-augmented reward modeling, which includes comprehensive comparison data of human preferences and detailed tool invocation processes. [Download](https://huggingface.co/datasets/baidu/TARA)
+TARA is a dataset for tool-augmented reward modeling, which includes comprehensive comparison data of human preferences and detailed tool invocation processes. [Download](https://huggingface.co/datasets/ernie-research/TARA)
 
 ### Dataset Structure
 
